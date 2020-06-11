@@ -1,0 +1,34 @@
+/*body {
+    font: 20px Arial, sans-serif;
+}*/
+
+.navbar {
+    background-color:blueviolet;
+}
+.navbar .nav-item .nav-link {
+    color: #fff;
+}
+
+.quem-somos {
+    background-color: #F7396A;
+    color: #fff;
+}
+
+.margin {
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros {
+    background-color: #8181F7;
+    color: #fff;
+}
+
+.servicos {
+    background-color: #4EE9AD;
+}
+
+.bg-footer {
+    background-color: blueviolet;
+    color: #fff;
+}
